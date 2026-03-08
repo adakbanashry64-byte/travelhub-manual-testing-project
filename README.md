@@ -62,4 +62,4 @@ Each defect includes:
 
 1. Multiple functional issues were identified during test execution.
 2. Bugs were documented and tracked through Jira for resolution.
-3. Test documentation provides traceability between requirements and test cases.  
+3. Test documentation provides traceability between requirements and test casees.  
